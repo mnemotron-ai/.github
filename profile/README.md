@@ -10,13 +10,13 @@ and remembers what happened *before*.
 
 ### What we work on
 
-- **Real-time pipelines** — ingest and transform streaming data (CDC, event streams) with low latency, instead of waiting on the next batch.
+- **Real-time pipelines** — ingest and transform streaming data (CDC, event streams) with low latency.
 - **Agents with memory** — AI agents that retain context across runs, so each decision builds on prior state rather than starting cold.
 - **On your existing stack** — designed to sit on top of warehouses and tools you already run (BigQuery, Kafka, Airflow), not replace them.
 
 ### Stack we live in
 
-`BigQuery` · `Kafka / Redpanda` · `Debezium CDC` · `Apache Airflow` · `Python` · `SQL`
+`Google Cloud Platform` · `BigQuery` · `Kafka / Redpanda` · `Debezium CDC` · `Apache Airflow` · `Python` · `SQL`
 
 ---
 
